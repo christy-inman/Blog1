@@ -22,7 +22,7 @@ Did you catch what happened there? We just refactored that original method down 
 
 So what's happening? Well we are using a method called Symbol#to_proc. The & is called a method to_proc which will try to run whatever is appended to it as a block. While the elements in an array aren't symbols themselves, it is important to use the : to represent them as symbols in this shorthand so that the to_proc method will run on them. You can use this style of shorthand in almost any situation where you are interating through and applying the same logic to every element selected. Hopefully implementing some of these shorthand techniques in your daily code journey will save you some finger fatigue, and also make your time spent coding more efficient.
 
-**Happy Coding**
+**Happy Coding!**
 
 If you'd like some more information on how to use this shorthand, or see some of the great resources I used to write this post, check out the links below:
 https://www.dan-manges.com/blog/29
