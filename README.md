@@ -25,6 +25,6 @@ So what's happening? Well we are using a method called **Symbol#to_proc**. The &
 **Happy Coding!**
 
 If you'd like some more information on how to use this shorthand, or see some of the great resources I used to write this post, check out the links below:
-https://www.dan-manges.com/blog/29
-http://ruby-doc.org/core-1.9.3/Symbol.html#method-i-to_proc
-http://vaidehijoshi.github.io/blog/2015/06/02/code-smells-and-ruby-shorthand-unpacking-ampersand-plus-to-proc/
+- https://www.dan-manges.com/blog/29
+- http://ruby-doc.org/core-1.9.3/Symbol.html#method-i-to_proc
+- http://vaidehijoshi.github.io/blog/2015/06/02/code-smells-and-ruby-shorthand-unpacking-ampersand-plus-to-proc/
